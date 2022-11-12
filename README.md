@@ -13,7 +13,7 @@ Install these python packages before you run the script:
 Selenium (https://pypi.org/project/selenium/) -> cmd to install selenium if python is installed -> (pip install selenium)
 Pytest (https://pypi.org/project/pytest/) -> cmd to install pytest if python is installed -> (pip install pytest)
 
-Once above enviroment setup is ready, open your terminal and go directory where script file is present.
+Once above enviroment setup is ready, open your terminal and go to the directory where script file is present.
 In my case its "cd Risecodes_Demo"
 Then type this command to run the script
 "py.test -v -s"

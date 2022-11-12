@@ -12,6 +12,7 @@ Download chrome web-driver and place it in same directory where the script file 
 Install these python packages before you run the script:
 Selenium (https://pypi.org/project/selenium/) -> cmd to install selenium if python is installed -> (pip install selenium)
 Pytest (https://pypi.org/project/pytest/) -> cmd to install pytest if python is installed -> (pip install pytest)
+Pytest-Ordering (https://pypi.org/project/pytest-ordering/) -> cmd to install pytest if python is installed -> (pip install pytest-ordering)
 
 Once above enviroment setup is ready, open your terminal and go to the directory where script file is present.
 In my case its "cd Risecodes_Demo"
